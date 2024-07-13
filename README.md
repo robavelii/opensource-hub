@@ -1,8 +1,8 @@
 ---
 
-# OpensourceHub
+# Opensource<span style="color:#067BC2;">Hub</span>
 
-OpensourceHub is a tool designed to help you discover open-source projects hosted on GitHub.
+Opensource<span style="color:#067BC2;">Hub</span> is a tool designed to help you discover open-source projects hosted on GitHub.
 
 
 ## Features
@@ -13,7 +13,7 @@ OpensourceHub is a tool designed to help you discover open-source projects hoste
 
 ## How it Works
 
-OpensourceHub leverages the GitHub API to fetch repositories based on specific queries. Users can scroll through a continuously loading list of projects, making it effortless to explore and find projects of interest.
+Opensource<span style="color:#067BC2;">Hub</span> leverages the GitHub API to fetch repositories based on specific queries. Users can scroll through a continuously loading list of projects, making it effortless to explore and find projects of interest.
 
 ## Usage
 
