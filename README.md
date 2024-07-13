@@ -1,6 +1,6 @@
 ---
 
-# Opensource<code style="color : #067BC2">Hub</code>
+# Opensource<code style="color : blue">Hub</code>
 
 Opensource<span style="color:#067BC2;">Hub</span> is a tool designed to help you discover open-source projects hosted on GitHub.
 
