@@ -3,7 +3,7 @@
 # Opensource![Hub](https://img.shields.io/badge/Hub-blue)
 
 
-Opensource![Hub](https://img.shields.io/badge/Hub-blue) is a tool designed to help you discover open-source projects hosted on GitHub.
+OpensourceHub is a tool designed to help you discover open-source projects hosted on GitHub.
 
 
 ## Features
@@ -14,7 +14,7 @@ Opensource![Hub](https://img.shields.io/badge/Hub-blue) is a tool designed to he
 
 ## How it Works
 
-Opensource![Hub](https://img.shields.io/badge/Hub-blue) leverages the GitHub API to fetch repositories based on specific queries. Users can scroll through a continuously loading list of projects, making it effortless to explore and find projects of interest.
+OpensourceHub leverages the GitHub API to fetch repositories based on specific queries. Users can scroll through a continuously loading list of projects, making it effortless to explore and find projects of interest.
 
 ## Usage
 
