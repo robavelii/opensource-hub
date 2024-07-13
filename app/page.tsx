@@ -21,7 +21,7 @@ export default function Home() {
 
   useEffect(() => {
     const fetchData = async () => {
-      const response = await fetch("/api/tools?page=${page}");
+      const response = await fetch(`/api/tools?page=${page}`);
       const data = await response.json();
       setTools((prevTools) => [...prevTools, ...data]);
       setHasMore(data.length > 0);
