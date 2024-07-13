@@ -1,8 +1,9 @@
 ---
 
-# Opensource<font color : "#067BC2">Hub</code>
+# Opensource![Hub](https://img.shields.io/badge/Hub-blue)
 
-Opensource<span style="color:#067BC2;">Hub</span> is a tool designed to help you discover open-source projects hosted on GitHub.
+
+Opensource![Hub](https://img.shields.io/badge/Hub-blue) is a tool designed to help you discover open-source projects hosted on GitHub.
 
 
 ## Features
@@ -13,7 +14,7 @@ Opensource<span style="color:#067BC2;">Hub</span> is a tool designed to help you
 
 ## How it Works
 
-Opensource<span style="color:#067BC2;">Hub</span> leverages the GitHub API to fetch repositories based on specific queries. Users can scroll through a continuously loading list of projects, making it effortless to explore and find projects of interest.
+Opensource![Hub](https://img.shields.io/badge/Hub-blue) leverages the GitHub API to fetch repositories based on specific queries. Users can scroll through a continuously loading list of projects, making it effortless to explore and find projects of interest.
 
 ## Usage
 
