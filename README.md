@@ -18,9 +18,9 @@ OpensourceHub leverages the GitHub API to fetch repositories based on specific q
 
 ## Usage
 
-1. **Search Projects:** Enter keywords or topics in the search bar.
-2. **Scroll:** Continuously scroll through the project list to discover more projects.
-3. **View Details:** Click on a project to view detailed information and GitHub repository links.
+- [ ] **Search Projects:** Enter keywords or topics in the search bar.
+- [x] **Scroll:** Continuously scroll through the project list to discover more projects.
+- [ ] **View Details:** Click on a project to view detailed information and GitHub repository links.
 
 ## License
 
